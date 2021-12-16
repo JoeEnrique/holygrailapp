@@ -1,7 +1,7 @@
 # Holygrail Web App
 # 
 Implementation of Redis databe for the fisrt time
-<h1><img src="https://github.com/JoeEnrique/holygrailapp/blob/main/holygrailapp.png" alt="Redis" width="30%"></h1>
+<h1><img src="https://github.com/JoeEnrique/holygrailapp/blob/main/holygrailapp.png" alt="Redis" width="50%"></h1>
 > Version 0.1
 
 
